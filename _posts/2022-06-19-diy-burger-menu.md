@@ -1,4 +1,3 @@
-
 ---
 title: "Burger Menu DIY"
 date: 2002-06-18
