@@ -1,6 +1,6 @@
 
 ----------------------------
-title: DIY Burger Menu
+title: "DIY Burger Menu"
 date: 2022-06-19
 ----------------------------
 
